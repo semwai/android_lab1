@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="str1">Старший был Button детина</string>
+    <string name="str2">средний сын и true и false</string>
+    <string name="str3">младший вовсе был TextView</string>
+    <string name="button">Button</string>
+    <string name="switch1">Switch</string>
+    <string name="textview">TextView</string>
+    <string name="checkbox">CheckBox</string>
+</resources>
